@@ -1,4 +1,5 @@
-# UnlockQGIS
-Unlock the Power of QGIS 
+# Unlock the Power of QGIS
+
 Learning material
+
 Download here!
