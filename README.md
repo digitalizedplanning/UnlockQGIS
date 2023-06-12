@@ -1,5 +1,5 @@
 # Unlock the Power of QGIS
 
-Learning material
+<h2> Learning material </h2>
 
 Download here!
